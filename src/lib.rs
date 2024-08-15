@@ -1,0 +1,9 @@
+pub mod alfil;
+pub mod caballo;
+pub mod dama;
+pub mod misc;
+pub mod partida;
+pub mod peon;
+pub mod pieza;
+pub mod rey;
+pub mod torre;
